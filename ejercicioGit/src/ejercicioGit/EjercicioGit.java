@@ -8,6 +8,8 @@ public class EjercicioGit {
 		System.out.println("esta es mi prueba 1");
 		
 		System.out.println("esta es la 2ª opracion");
+
+		int numero = 0;
 	}
 	
 	
